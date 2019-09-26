@@ -1,4 +1,7 @@
 django >= 2.1.6, < 3.0
 NumPy >= 1.11.0
 lda
+SciPy
+joblib
+scikit-learn
 
